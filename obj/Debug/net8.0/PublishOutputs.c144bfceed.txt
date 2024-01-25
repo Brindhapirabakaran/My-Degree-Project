@@ -1,0 +1,7 @@
+C:\Users\92bripir\Desktop\NEW DEGREE Project\EXARBETE\MyDegreeProject\bin\Debug\net8.0\publish\MyDegreeProject.exe
+C:\Users\92bripir\Desktop\NEW DEGREE Project\EXARBETE\MyDegreeProject\bin\Debug\net8.0\publish\appsettings.Development.json
+C:\Users\92bripir\Desktop\NEW DEGREE Project\EXARBETE\MyDegreeProject\bin\Debug\net8.0\publish\appsettings.json
+C:\Users\92bripir\Desktop\NEW DEGREE Project\EXARBETE\MyDegreeProject\bin\Debug\net8.0\publish\MyDegreeProject.dll
+C:\Users\92bripir\Desktop\NEW DEGREE Project\EXARBETE\MyDegreeProject\bin\Debug\net8.0\publish\MyDegreeProject.deps.json
+C:\Users\92bripir\Desktop\NEW DEGREE Project\EXARBETE\MyDegreeProject\bin\Debug\net8.0\publish\MyDegreeProject.runtimeconfig.json
+C:\Users\92bripir\Desktop\NEW DEGREE Project\EXARBETE\MyDegreeProject\bin\Debug\net8.0\publish\MyDegreeProject.pdb
